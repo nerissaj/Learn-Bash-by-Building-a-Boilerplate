@@ -43,3 +43,4 @@ more
 more
 more --help
 more README.md
+echo from the command line >> README.md
