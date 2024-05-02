@@ -1,0 +1,18 @@
+rm roboto-bold.woff
+ls --color=auto
+cd ../..
+cd ..
+ls --color=auto
+find
+touch roboto-bold.woff ./client/assets/fonts
+ls --color=auto
+rm roboto-bold.woff
+ls --color=auto
+cd client/assets/fonts
+touch roboto-bold.woff
+ls --color=auto
+rm roboto-bold.woff
+ls --color=auto
+cd ../,../..
+cd ../../..
+touch client/assets/fonts/roboto-bold.woff
