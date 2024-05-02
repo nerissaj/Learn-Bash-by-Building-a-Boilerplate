@@ -34,3 +34,12 @@ echo Yay!
 echo I finished the boilerplate!
 echo one more thing...
 echo I made this boilerplate >> README.md
+more
+cd README > md
+cd README.md
+ls --color=auto
+cd README.md
+more
+more
+more --help
+more README.md
